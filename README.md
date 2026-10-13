@@ -1,2 +1,2 @@
-# UNCERTAINTYESTIMATIONANDCONFIDENCE-CALIBRATION-IN-UNIMODFORMULTIMODAL-MEDICAL-DIAGNOSIS
-Thesis project exploring uncertainty estimation and confidence calibration in UniMod for multimodal medical diagnosis using ECE, Brier Score and temperature scaling.
+# UNCERTAINTY ESTIMATION AND CONFIDENCE CALIBRATION IN UNIMOD FOR MULTIMODAL MEDICAL DIAGNOSIS
+This repository contains the thesis research project **“Uncertainty Estimation and Confidence Calibration in UniMod for Multimodal Medical Diagnosis.”** It focuses on evaluating the confidence reliability of UniMod, measuring calibration using Expected Calibration Error (ECE) and Brier Score and investigating temperature scaling to improve confidence calibration. The project also evaluates diagnostic accuracy and explores how uncertainty estimation can help identify predictions that may require further review. Experimental results will be reported after implementation and evaluation.
